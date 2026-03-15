@@ -1,4 +1,4 @@
-# Sales Analysis & Prediction 📈
+# Sales Analysis & Prediction 
 
 Model Machine Learning przewidujący sprzedaż na podstawie czynników zewnętrznych.
 
